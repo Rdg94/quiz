@@ -5,60 +5,57 @@
 //     Correta: 2,
 //   },
 // ];
+
 const perguntas = [
   {
-    pergunta: "Qual é o maior planeta do Sistema Solar?",
-    respostas: ["Marte", "Vênus", "Júpiter"],
-    correta: 2,
-  },
-  {
-    pergunta: "Qual é o país com a maior área territorial do mundo?",
-    respostas: ["Canadá", "Rússia", "China"],
-    correta: 1,
-  },
-  {
-    pergunta: "Quem escreveu a obra 'Dom Quixote'?",
-    respostas: [
-      "Miguel de Cervantes",
-      "William Shakespeare",
-      "Friedrich Nietzsche",
-    ],
+    pergunta: "Qual é o nome completo do protagonista da série Naruto?",
+    respostas: ["Naruto Uzumaki", "Naruto Namikaze", "Naruto Senju"],
     correta: 0,
   },
   {
-    pergunta: "Qual é o elemento químico mais abundante na crosta terrestre?",
-    respostas: ["Ferro", "Oxigênio", "Silício"],
-    correta: 2,
-  },
-  {
-    pergunta: "Quem pintou a Mona Lisa?",
-    respostas: ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso"],
+    pergunta: "Quem é o sensei de Naruto?",
+    respostas: ["Kakashi Hatake", "Jiraiya", "Orochimaru"],
     correta: 0,
   },
   {
-    pergunta: "Em que ano a Primeira Guerra Mundial começou?",
-    respostas: ["1914", "1918", "1939"],
+    pergunta: "Qual é o nome do vilão principal da série?",
+    respostas: ["Madara Uchiha", "Obito Uchiha", "Kaguya Ootsutsuki"],
     correta: 0,
   },
   {
-    pergunta: "Qual é o maior oceano da Terra?",
-    respostas: ["Atlântico", "Índico", "Pacífico"],
-    correta: 2,
+    pergunta: "Qual é a vila de origem de Naruto?",
+    respostas: ["Vila da Folha", "Vila da Areia", "Vila da Névoa"],
+    correta: 0,
   },
   {
-    pergunta: "Qual é o símbolo químico do ouro?",
-    respostas: ["Ag", "Au", "Fe"],
-    correta: 1,
+    pergunta: "Qual é o nome do jutsu mais famoso de Naruto?",
+    respostas: ["Rasengan", "Chidori", "Kamehameha"],
+    correta: 0,
   },
   {
-    pergunta: "Quem escreveu 'Romeu e Julieta'?",
-    respostas: ["Charles Dickens", "Jane Austen", "William Shakespeare"],
-    correta: 2,
+    pergunta: "Quem é o melhor amigo de Naruto?",
+    respostas: ["Sasuke Uchiha", "Shikamaru Nara", "Neji Hyuga"],
+    correta: 0,
   },
   {
-    pergunta: "Quantos continentes existem no mundo?",
-    respostas: ["4", "6", "7"],
-    correta: 2,
+    pergunta: "Qual é o nome do professor de Naruto na Academia Ninja?",
+    respostas: ["Iruka Umino", "Gai Maito", "Asuma Sarutobi"],
+    correta: 0,
+  },
+  {
+    pergunta: "Qual é o nome do clã de Sasuke?",
+    respostas: ["Clã Uchiha", "Clã Hyuga", "Clã Senju"],
+    correta: 0,
+  },
+  {
+    pergunta: "Quem é o líder da Akatsuki?",
+    respostas: ["Pain", "Itachi Uchiha", "Kisame Hoshigaki"],
+    correta: 0,
+  },
+  {
+    pergunta: "Qual é o nome do exame realizado para se tornar um Chunin?",
+    respostas: ["Exame Chunin", "Exame Genin", "Exame Jonin"],
+    correta: 0,
   },
 ];
 
